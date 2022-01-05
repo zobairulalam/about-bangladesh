@@ -1,0 +1,12 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+h3{
+    font-size: 25px;
+}
+.bd-highlight{
+    color: orange;
+}
